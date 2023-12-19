@@ -22,6 +22,9 @@ export function App () {
         Elon Musk
       </TwitterFollowCard>
 
+      <button onClick={() => setName('pedromichel')}>
+        Cambio de nombre
+      </button>
     </section>
     
     
